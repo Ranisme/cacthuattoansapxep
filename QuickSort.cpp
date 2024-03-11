@@ -45,8 +45,7 @@ int main()
 {
   freopen("text9.txt", "r", stdin);
   freopen("time.txt", "w", stdout);
-  ios_base::sync_with_stdio(false);  Start = clock();
-  cin.tie(NULL);
+  ios_base::sync_with_stdio(false);  
   cout.tie(NULL);
   int n = 1000000;
   for (int i = 0; i < n; i++)
