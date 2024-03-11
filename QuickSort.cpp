@@ -43,7 +43,7 @@ void quicksort(vector<double> &values, int left, int right) {
 
 int main()
 {
-  freopen("text9.txt", "r", stdin);
+  freopen("text2.txt", "r", stdin);
   freopen("time.txt", "w", stdout);
   ios_base::sync_with_stdio(false);  
   cout.tie(NULL);

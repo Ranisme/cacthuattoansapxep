@@ -40,14 +40,13 @@ void heap_sort(vector<double> &arr)
 }
 
 vector<double> arr;
-
 clock_t Start, End;
 double duration;
 
 
 int main()
 {
-    freopen("text9.txt", "r", stdin);
+    freopen("text10.txt", "r", stdin);
     freopen("time.txt", "w", stdout);
     ios_base::sync_with_stdio(false);  
     cout.tie(NULL);

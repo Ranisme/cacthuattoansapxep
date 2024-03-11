@@ -1,1 +1,1 @@
-Time run: 0.664 s
+Time run: 0.345 s
